@@ -27,22 +27,22 @@
 		"name": "boss2",
 		"children": [{
 			"name": "mister_e",
-			"group": "C",
+			"group": "E",
 			"value": 1,
 			"colname": "level3"
 		}, {
 			"name": "mister_f",
-			"group": "A",
+			"group": "F",
 			"value": 1,
 			"colname": "level3"
 		}, {
 			"name": "mister_g",
-			"group": "B",
+			"group": "G",
 			"value": 1,
 			"colname": "level3"
 		}, {
 			"name": "mister_h",
-			"group": "B",
+			"group": "H",
 			"value": 1,
 			"colname": "level3"
 		}],
@@ -51,32 +51,32 @@
 		"name": "boss3",
 		"children": [{
 			"name": "mister_i",
-			"group": "B",
+			"group": "I",
 			"value": 1,
 			"colname": "level3"
 		}, {
 			"name": "mister_j",
-			"group": "A",
+			"group": "J",
 			"value": 1,
 			"colname": "level3"
 		}, {
 			"name": "mister_k",
-			"group": "A",
+			"group": "K",
 			"value": 1,
 			"colname": "level3"
 		}, {
 			"name": "mister_l",
-			"group": "D",
+			"group": "L",
 			"value": 1,
 			"colname": "level3"
 		}, {
 			"name": "mister_m",
-			"group": "D",
+			"group": "M",
 			"value": 1,
 			"colname": "level3"
 		}, {
 			"name": "mister_n",
-			"group": "D",
+			"group": "N",
 			"value": 1,
 			"colname": "level3"
 		}],
